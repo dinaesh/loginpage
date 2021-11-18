@@ -1,0 +1,24 @@
+body {
+  background-image: url(../images/gradienta-LeG68PrXA6Y-unsplash.jpg);
+  background-size: cover;
+}
+p {
+  text-decoration: underline;
+  text-align: center;
+  font-size: xx-large;
+  color: black;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.form {
+  text-align: center;
+  margin-top: 150px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+form {
+  margin-left: 570px;
+  background-color: white;
+  border-radius: 50px;
+  height: 350px;
+  width: 300px;
+}
