@@ -1,6 +1,7 @@
 body {
   background-image: url(../images/gradienta-LeG68PrXA6Y-unsplash.jpg);
-  background-size: cover;
+  background-size: 1500px;
+  background-repeat: no-repeat;
 }
 p {
   text-decoration: underline;
